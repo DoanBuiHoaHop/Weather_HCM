@@ -1,4 +1,4 @@
-# Đồ án cuối kỳ môn Khoa học dữ liệu ứng dụng
+# Đồ án cuối Khóa Luận Tốt Nghiệp 
 # Đề tài: Dự đoán thời tiết của thành phố Hồ Chí Minh
 ## 1. Mục tiêu của đề tài:
 **Dự báo thời tiết** là một ngành ứng dụng của khoa học và công nghệ để tiên đoán trạng thái và vị trí của bầu khí quyển trong tương lai gần. Loài người đã nỗ lực dự báo thời tiết một cách không chính thức từ nhiều thiên niên kỳ trước, và việc dự báo thời tiết một cách chính thức bắt đầu từ thế kỷ mười chín. Công tác dự báo thời tiết được thực hiện bằng cách thu thập số liệu về trạng thái hiện tại của bầu khí quyển và áp dụng những hiểu biết khoa học về các quá trình của khí quyển để tiên đoán sự tiến triển của khí quyển *(Theo Wikipedia).*  
