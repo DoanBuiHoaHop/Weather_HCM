@@ -60,7 +60,7 @@ Kết quả của mô hình (dự đoán trên 100 dòng dữ liệu cuối):
 - Có thể phát triển mô hình bằng cách dự đoán tất cả các giá trị thời tiết của các ngày tiếp theo (hoặc tuần), nếu dữ liệu nhiều hơn, có thể sử dụng deep learning để có thể cho kết quả chính xác hơn.
 ## 5. Hướng dẫn chạy code
 Các thư viện cần cài đặt: numpy, pandas, matplotlib, request_html, selenium, scikit-learn, scipy.
-#GIẤY PHÉP 
+# GIẤY PHÉP 
 MIT License
 
 Copyright (c) 2023 Md. Shakil Hossain
